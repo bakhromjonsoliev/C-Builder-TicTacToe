@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.530,=F:\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.441,=F:\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.06.02 18:07:16.606,=F:\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.06.02 18:07:16.718,=F:\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.06.02 18:07:45.857,F:\Inbox\C++\XvaNol\Unit1.dfm=F:\My Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.06.02 18:07:45.857,F:\Inbox\C++\XvaNol\Unit1.cpp=F:\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.06.02 18:07:45.857,F:\Inbox\C++\XvaNol\Unit1.h=F:\My Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022.06.02 18:07:47.563,F:\Inbox\C++\XvaNol\Project1PCH1.h=F:\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.06.02 18:07:48.936,F:\Inbox\C++\XvaNol\Project1.cbproj=F:\My Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
